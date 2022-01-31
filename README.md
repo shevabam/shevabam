@@ -17,11 +17,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Des logos célèbres détournés dans le style Moyen-Âge](https://blog.shevarezo.fr/post/2022/01/31/logos-celebres-style-moyen-age)
 - [Comment trouver la version de MySQL ?](https://blog.shevarezo.fr/post/2022/01/27/comment-trouver-version-mysql)
 - [CSS Speedrun, un petit jeu pour tester vos connaissances en CSS](https://blog.shevarezo.fr/post/2022/01/20/css-speedrun-tester-connaissances-css)
 - [Créer un arrière-plan &lpar;background&rpar; animé en CSS](https://blog.shevarezo.fr/post/2022/01/19/creer-arriere-plan-background-anime-css)
 - [Jouez à Motus sur votre ordinateur ou téléphone avec SUTOM](https://blog.shevarezo.fr/post/2022/01/13/sutom-motus-sur-ordinateur-telephone)
-- [Recevoir une notification lorsqu&#39;une vidéo est ajoutée à une playlist YouTube](https://blog.shevarezo.fr/post/2022/01/06/notification-video-playlist-youtube)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
