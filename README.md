@@ -17,11 +17,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bilan du blog après 7 ans d&#39;articles](https://blog.shevarezo.fr/post/2022/02/18/blog-bilan-apres-7-ans)
 - [Comment personnaliser le format d&#39;une page sur Google Docs ?](https://blog.shevarezo.fr/post/2022/02/15/comment-personnaliser-format-page-google-docs)
 - [SVG Gobbler, une extension Chrome / Firefox pour télécharger tous les SVG d&#39;un site](https://blog.shevarezo.fr/post/2022/02/10/svg-gobbler-extension-chrome-firefox-telecharger-svg-site)
 - [Exécuter et planifier des scripts Python gratuitement avec Python Anywhere](https://blog.shevarezo.fr/post/2022/02/03/executer-planifier-scripts-python-gratuitement-python-anywhere)
 - [Des logos célèbres détournés dans le style Moyen-Âge](https://blog.shevarezo.fr/post/2022/01/31/logos-celebres-style-moyen-age)
-- [Comment trouver la version de MySQL ?](https://blog.shevarezo.fr/post/2022/01/27/comment-trouver-version-mysql)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
