@@ -17,11 +17,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Faire une recherche dans tous les champs d&#39;une base de données](https://blog.shevarezo.fr/post/2022/03/24/recherche-dans-tous-les-champs-base-de-donnees)
 - [Consulter les articles Wikipedia dans son terminal](https://blog.shevarezo.fr/post/2022/03/11/consulter-articles-wikipedia-dans-terminal)
 - [SmoothShadow, un générateur d&#39;ombres CSS très complet](https://blog.shevarezo.fr/post/2022/03/03/smoothshadow-generateur-ombre-css)
 - [Ajouter Git Bash dans Windows Terminal](https://blog.shevarezo.fr/post/2022/02/23/ajouter-git-bash-windows-terminal)
 - [Bilan du blog après 7 ans d&#39;articles](https://blog.shevarezo.fr/post/2022/02/18/blog-bilan-apres-7-ans)
-- [Comment personnaliser le format d&#39;une page sur Google Docs ?](https://blog.shevarezo.fr/post/2022/02/15/comment-personnaliser-format-page-google-docs)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
