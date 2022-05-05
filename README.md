@@ -17,11 +17,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comment créer une barre de progression sur Google Sheets](https://blog.shevarezo.fr/post/2022/05/05/comment-creer-barre-progression-google-sheets)
 - [Obtenir plus d&#39;informations sur une application du Google Play Store avec cette extension](https://blog.shevarezo.fr/post/2022/04/28/extension-obtenir-informations-application-google-play-store)
 - [Générer des textures de bruit SVG avec nnnoise](https://blog.shevarezo.fr/post/2022/04/07/generer-textures-bruit-svg-nnnoise)
 - [Découper un gros fichier CSV en plusieurs avec le logiciel CSV Splitter](https://blog.shevarezo.fr/post/2022/04/05/decouper-gros-fichier-csv-plusieurs-csv-splitter)
 - [Une extension Chrome et Firefox pour enregistrer une annonce LeBonCoin en PDF](https://blog.shevarezo.fr/post/2022/03/31/pdf-exporter-extension-chrome-firefox-enregistrer-annonce-leboncoin-pdf)
-- [Exécuter du SQL dans Visual Studio Code avec MySQL Shell for VS Code](https://blog.shevarezo.fr/post/2022/03/25/executer-sql-visual-studio-code-extension)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
