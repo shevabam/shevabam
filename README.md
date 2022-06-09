@@ -17,11 +17,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Installer et configurer Airsonic sous Docker pour écouter vos musiques de n&#39;importe où](https://blog.shevarezo.fr/post/2022/06/09/installer-configurer-airsonic-docker-ecouter-musique-n-importe-ou)
 - [Evolution des URL pour les API Breaking Bad Quotes et Game of Thrones quotes](https://blog.shevarezo.fr/post/2022/05/23/evolution-url-api-breaking-bad-quotes-game-of-thrones-quotes)
 - [Des exemples de codes CSS de mises en page et d&#39;éléments avec CSS Layout](https://blog.shevarezo.fr/post/2022/05/19/css-layout-codes-css-mises-en-page-elements)
 - [Ouvrir plusieurs URLs en une fois grâce à l&#39;extension Bulk URL Opener](https://blog.shevarezo.fr/post/2022/05/13/ouvrir-plusieurs-urls-une-fois-extension-bulk-url-opener)
 - [Comment créer une barre de progression sur Google Sheets](https://blog.shevarezo.fr/post/2022/05/05/comment-creer-barre-progression-google-sheets)
-- [Obtenir plus d&#39;informations sur une application du Google Play Store avec cette extension](https://blog.shevarezo.fr/post/2022/04/28/extension-obtenir-informations-application-google-play-store)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
