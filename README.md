@@ -10,6 +10,7 @@ I'm a french developer who likes to build things and share them with everyone ðŸ
 - [**Get RSS Feed URL Chrome extension**](https://github.com/shevabam/get-rss-feed-url-extension) [![Chrome Web Store](https://img.shields.io/chrome-web-store/users/kfghpdldaipanmkhfpdcjglncmilendn?label=downloads&logo=Google%20Chrome&style=flat-square)](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn)
 - [**Get simple product information from Amazon API (PHP)**](https://github.com/shevabam/amazon-product-info)
 - [**Google reCAPTCHA v2 PHP class**](https://github.com/shevabam/recaptcha)
+- [**Meilisearch Light PHP Client**](https://github.com/shevabam/meilisearch-light-php-client)
 - [**TweetBoxBot**](https://github.com/shevabam/TweetBoxBot) - Automatically tweets random informations from a Linux machine
 
 âž¡ [More projects](https://github.com/shevabam?tab=repositories&q=&type=source&language=&sort=stargazers)
