@@ -18,11 +18,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comment augmenter le nombre de résultats par page d&#39;une recherche Google](https://blog.shevarezo.fr/post/2022/08/04/recherche-google-comment-augmenter-nombre-resultats-par-page)
 - [Décoder un JSON Web Token &lpar;JWT&rpar; sur Visual Studio Code ou Sublime Text](https://blog.shevarezo.fr/post/2022/07/08/decoder-json-web-token-jwt-visual-studio-code-sublime-text)
 - [Associer des raccourcis clavier à une action avec Clavier+](https://blog.shevarezo.fr/post/2022/06/30/associer-raccourcis-clavier-action-clavier-plus)
 - [Une excellente extension Color Picker pour Chrome](https://blog.shevarezo.fr/post/2022/06/22/excellente-extension-color-picker-chrome)
 - [Un générateur d&#39;ombres dégradées CSS](https://blog.shevarezo.fr/post/2022/06/17/generateur-ombres-degradees-css)
-- [Obtenir des statistiques pour analyser des comptes Twitter avec TweetDeets](https://blog.shevarezo.fr/post/2022/06/13/statistiques-analyser-comptes-twitter-tweetdeets)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
