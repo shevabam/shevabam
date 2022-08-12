@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [system.css, une lib CSS pour créer des interfaces avec le style d&#39;un ancien OS Apple](https://blog.shevarezo.fr/post/2022/08/12/system-css-lib-css-interfaces-style-ancien-os-apple)
 - [Microsoft publie sur Github et Figma sa bibliothèque de 1500 emojis en open source](https://blog.shevarezo.fr/post/2022/08/11/microsoft-publie-github-figma-bibliotheque-500-emojis-open-source)
 - [La signification des codes de statut HTTP](https://blog.shevarezo.fr/post/2022/08/09/signification-codes-statut-http)
 - [Comment augmenter le nombre de résultats par page d&#39;une recherche Google](https://blog.shevarezo.fr/post/2022/08/04/recherche-google-comment-augmenter-nombre-resultats-par-page)
 - [Décoder un JSON Web Token &lpar;JWT&rpar; sur Visual Studio Code ou Sublime Text](https://blog.shevarezo.fr/post/2022/07/08/decoder-json-web-token-jwt-visual-studio-code-sublime-text)
-- [Associer des raccourcis clavier à une action avec Clavier+](https://blog.shevarezo.fr/post/2022/06/30/associer-raccourcis-clavier-action-clavier-plus)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
