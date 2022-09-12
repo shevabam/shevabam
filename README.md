@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Docs ajoute la prise en charge des emojis via le clavier](https://blog.shevarezo.fr/post/2022/09/12/google-docs-ajoute-emojis-clavier)
 - [Une extension Chrome pour organiser automatiquement les fichiers téléchargés](https://blog.shevarezo.fr/post/2022/09/09/extension-chrome-organiser-automatiquement-fichiers-telecharges)
 - [Comment télécharger toutes vos photos et stories Instagram](https://blog.shevarezo.fr/post/2022/08/30/comment-telecharger-photos-stories-instagram)
 - [Comment écrire en Markdown dans Google Docs](https://blog.shevarezo.fr/post/2022/08/18/comment-ecrire-markdown-google-docs)
 - [system.css, une lib CSS pour créer des interfaces avec le style d&#39;un ancien OS Apple](https://blog.shevarezo.fr/post/2022/08/12/system-css-lib-css-interfaces-style-ancien-os-apple)
-- [Microsoft publie sur Github et Figma sa bibliothèque de 1500 emojis en open source](https://blog.shevarezo.fr/post/2022/08/11/microsoft-publie-github-figma-bibliotheque-500-emojis-open-source)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
