@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comment avoir la barre de progression d&#39;une vidéo YouTube en permanence ?](https://blog.shevarezo.fr/post/2022/10/12/comment-avoir-barre-progression-video-youtube-permanence)
 - [Comment exporter ses connexions / contacts LinkedIn sur Excel ?](https://blog.shevarezo.fr/post/2022/10/04/comment-exporter-connexions-contacts-linkedin-sur-excel)
 - [Visualiser les données d&#39;un JSON sous forme de diagramme](https://blog.shevarezo.fr/post/2022/09/28/visualiser-json-diagramme)
 - [Découvrez quelle typo se trouve sur les logos des marques avec Font In Logo](https://blog.shevarezo.fr/post/2022/09/21/quelle-typo-sur-logos-marques-font-in-logo)
 - [Tester n&#39;importe quel package Composer directement dans votre navigateur](https://blog.shevarezo.fr/post/2022/09/15/tester-package-composer-dans-navigateur)
-- [Google Docs ajoute la prise en charge des emojis via le clavier](https://blog.shevarezo.fr/post/2022/09/12/google-docs-ajoute-emojis-clavier)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
