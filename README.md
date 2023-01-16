@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Personnaliser le menu Win+X de Windows 10 et 11](https://blog.shevarezo.fr/post/2023/01/16/personnaliser-menu-winx-windows-10-11)
 - [Créer une arborescence en CSS uniquement](https://blog.shevarezo.fr/post/2023/01/10/creer-arborescence-css-uniquement)
 - [Jouez au surf façon SkiFree dans le navigateur Microsoft Edge](https://blog.shevarezo.fr/post/2023/01/06/jouez-au-surf-facon-skifree-navigateur-microsoft-edge)
 - [Comment changer le filtre habitacle sur une Fiat 500 1.4 100 cv](https://blog.shevarezo.fr/post/2023/01/03/comment-changer-filtre-habitacle-fiat-500-100-cv)
 - [Les séries TV que j&#39;ai regardées en 2022](https://blog.shevarezo.fr/post/2022/12/28/series-tv-regardees-2022)
-- [TextGrab, une extension Chrome pour copier le texte d&#39;une vidéo ou d&#39;une image](https://blog.shevarezo.fr/post/2022/12/07/textgrab-extension-chrome-copier-texte-video-image)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
