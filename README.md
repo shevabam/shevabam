@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Le blog fête ses 8 ans, on se fait un petit bilan ?](https://blog.shevarezo.fr/post/2023/02/18/blog-fete-ses-8-ans-bilan)
 - [Une extension Visual Studio Code pour afficher la taille du fichier](https://blog.shevarezo.fr/post/2023/02/09/extension-visual-studio-code-afficher-taille-fichier)
 - [Comment internationaliser des nombres avec JavaScript](https://blog.shevarezo.fr/post/2023/02/01/javascript-comment-internationaliser-nombres)
 - [Quels sont les 10 mots que tu utilises le plus sur Twitter ?](https://blog.shevarezo.fr/post/2023/01/26/10-mots-utilises-plus-sur-twitter)
 - [Personnaliser le menu Win+X de Windows 10 et 11](https://blog.shevarezo.fr/post/2023/01/16/personnaliser-menu-winx-windows-10-11)
-- [Créer une arborescence en CSS uniquement](https://blog.shevarezo.fr/post/2023/01/10/creer-arborescence-css-uniquement)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
