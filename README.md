@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Afficher la taille des fichiers sur un dépôt Github](https://blog.shevarezo.fr/post/2023/03/01/afficher-taille-fichiers-github)
 - [Ouvrir par défaut Google Chrome en mode navigation privée](https://blog.shevarezo.fr/post/2023/02/23/google-chrome-ouvrir-par-defaut-navigation-privee)
 - [Le blog fête ses 8 ans, on se fait un petit bilan ?](https://blog.shevarezo.fr/post/2023/02/18/blog-fete-ses-8-ans-bilan)
 - [Une extension Visual Studio Code pour afficher la taille du fichier](https://blog.shevarezo.fr/post/2023/02/09/extension-visual-studio-code-afficher-taille-fichier)
 - [Comment internationaliser des nombres avec JavaScript](https://blog.shevarezo.fr/post/2023/02/01/javascript-comment-internationaliser-nombres)
-- [Quels sont les 10 mots que tu utilises le plus sur Twitter ?](https://blog.shevarezo.fr/post/2023/01/26/10-mots-utilises-plus-sur-twitter)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
