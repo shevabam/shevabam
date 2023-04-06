@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Savoir si un disque est un disque dur ou un SSD avec PowerShell](https://blog.shevarezo.fr/post/2023/04/06/disque-dur-ou-ssd-powershell)
 - [Comment changer le terminal par défaut dans VS Code ?](https://blog.shevarezo.fr/post/2023/03/30/vs-code-comment-changer-terminal-par-defaut)
 - [Quelques améliorations sur le blog](https://blog.shevarezo.fr/post/2023/03/26/quelques-ameliorations-sur-le-blog)
 - [Récupérer le logo des marques ou entreprises automatiquement dans Google Sheets](https://blog.shevarezo.fr/post/2023/03/08/logo-marques-entreprises-google-sheets)
 - [Afficher la taille des fichiers sur un dépôt Github](https://blog.shevarezo.fr/post/2023/03/01/afficher-taille-fichiers-github)
-- [Ouvrir par défaut Google Chrome en mode navigation privée](https://blog.shevarezo.fr/post/2023/02/23/google-chrome-ouvrir-par-defaut-navigation-privee)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
