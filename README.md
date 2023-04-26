@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoir un terminal dans Sublime Text](https://blog.shevarezo.fr/post/2023/04/26/terminal-dans-sublime-text)
 - [Voir l&#39;évolution du nombre d&#39;issues et pull requests d&#39;un dépôt Github](https://blog.shevarezo.fr/post/2023/04/19/github-evolution-nombre-issues-pull-requests)
 - [Savoir si un disque est un disque dur ou un SSD avec PowerShell](https://blog.shevarezo.fr/post/2023/04/06/disque-dur-ou-ssd-powershell)
 - [Comment changer le terminal par défaut dans VS Code ?](https://blog.shevarezo.fr/post/2023/03/30/vs-code-comment-changer-terminal-par-defaut)
 - [Quelques améliorations sur le blog](https://blog.shevarezo.fr/post/2023/03/26/quelques-ameliorations-sur-le-blog)
-- [Récupérer le logo des marques ou entreprises automatiquement dans Google Sheets](https://blog.shevarezo.fr/post/2023/03/08/logo-marques-entreprises-google-sheets)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
