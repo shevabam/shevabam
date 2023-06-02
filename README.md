@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Une extension Chrome pour flouter des éléments d&#39;une page Web](https://blog.shevarezo.fr/post/2023/06/02/extension-chrome-flouter-elements-page-web)
 - [Afficher à l&#39;écran les touches du clavier utilisées avec Keyviz](https://blog.shevarezo.fr/post/2023/05/25/afficher-touches-clavier-utilisees-keyviz)
 - [OSS 117 Quotes, encore une API de citations !](https://blog.shevarezo.fr/post/2023/05/17/oss-117-quotes-api-citations)
 - [Data-Asso, le site qui regroupe toutes les associations de France](https://blog.shevarezo.fr/post/2023/05/10/data-asso-regroupe-associations-france)
 - [Avoir un terminal dans Sublime Text](https://blog.shevarezo.fr/post/2023/04/26/terminal-dans-sublime-text)
-- [Voir l&#39;évolution du nombre d&#39;issues et pull requests d&#39;un dépôt Github](https://blog.shevarezo.fr/post/2023/04/19/github-evolution-nombre-issues-pull-requests)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
