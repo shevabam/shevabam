@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comment créer un compte à rebours dans Google Sheets](https://blog.shevarezo.fr/post/2023/07/07/creer-compte-a-rebours-google-sheets)
 - [ByteScout PDF Multitool, l&#39;outil pour convertir, optimiser et extraire des éléments dans vos PDF](https://blog.shevarezo.fr/post/2023/06/29/bytescout-pdf-multitool-convertir-optimiser-extraire-pdf)
 - [Le fichier humans.txt](https://blog.shevarezo.fr/post/2023/06/21/le-fichier-humans-txt)
 - [Créer un texte artistique SVG composé d&#39;icônes](https://blog.shevarezo.fr/post/2023/06/08/creer-texte-artistique-svg-icones)
 - [Une extension Chrome pour flouter des éléments d&#39;une page Web](https://blog.shevarezo.fr/post/2023/06/02/extension-chrome-flouter-elements-page-web)
-- [Afficher à l&#39;écran les touches du clavier utilisées avec Keyviz](https://blog.shevarezo.fr/post/2023/05/25/afficher-touches-clavier-utilisees-keyviz)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
