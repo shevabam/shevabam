@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Une extension Chrome pour afficher le nombre de mots et de caractères sélectionnés](https://blog.shevarezo.fr/post/2023/07/31/extension-chrome-afficher-nombre-mots-caracteres-selectionnes)
 - [VS Code Counter, l&#39;extension VS Code pour avoir des statistiques sur votre code](https://blog.shevarezo.fr/post/2023/07/24/vs-code-counter-extension-statistiques-code)
 - [Comment créer un compte à rebours dans Google Sheets](https://blog.shevarezo.fr/post/2023/07/07/creer-compte-a-rebours-google-sheets)
 - [ByteScout PDF Multitool, l&#39;outil pour convertir, optimiser et extraire des éléments dans vos PDF](https://blog.shevarezo.fr/post/2023/06/29/bytescout-pdf-multitool-convertir-optimiser-extraire-pdf)
 - [Le fichier humans.txt](https://blog.shevarezo.fr/post/2023/06/21/le-fichier-humans-txt)
-- [Créer un texte artistique SVG composé d&#39;icônes](https://blog.shevarezo.fr/post/2023/06/08/creer-texte-artistique-svg-icones)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
