@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comment exporter les variables d&#39;environnements Windows dans un fichier texte ?](https://blog.shevarezo.fr/post/2023/09/29/comment-exporter-variables-environnements-windows-fichier-texte)
 - [Imprimer plusieurs documents différents en même temps avec BulkPrinter](https://blog.shevarezo.fr/post/2023/09/22/imprimer-plusieurs-documents-differents-en-meme-temps-bulkprinter)
 - [Comment changer le terminal par défaut dans VS Code ?](https://blog.shevarezo.fr/post/2023/08/30/vs-code-comment-changer-terminal-par-defaut)
 - [Analyser les polices d&#39;un site Web avec Fonty.io](https://blog.shevarezo.fr/post/2023/08/09/fontyio-analyser-polices-fonts-site-web)
 - [Une extension Chrome pour afficher le nombre de mots et de caractères sélectionnés](https://blog.shevarezo.fr/post/2023/07/31/extension-chrome-afficher-nombre-mots-caracteres-selectionnes)
-- [VS Code Counter, l&#39;extension VS Code pour avoir des statistiques sur votre code](https://blog.shevarezo.fr/post/2023/07/24/vs-code-counter-extension-statistiques-code)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
