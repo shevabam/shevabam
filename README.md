@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Afficher les mises à jour disponibles dans le fichier package.json dans VS Code](https://blog.shevarezo.fr/post/2023/10/31/vs-code-afficher-mises-a-jour-disponibles-package-json)
 - [Savoir si un disque est un disque dur ou un SSD sur Linux](https://blog.shevarezo.fr/post/2023/10/18/savoir-si-disque-est-disque-dur-ou-ssd-linux)
 - [Vérifier une URL en JavaScript avec canParse](https://blog.shevarezo.fr/post/2023/10/13/javascript-verifier-check-url-canparse)
 - [Afficher le nom du dossier dans les onglets sur VS Code](https://blog.shevarezo.fr/post/2023/10/06/afficher-nom-dossier-onglet-vs-code)
 - [Comment exporter les variables d&#39;environnements Windows dans un fichier texte ?](https://blog.shevarezo.fr/post/2023/09/29/comment-exporter-variables-environnements-windows-fichier-texte)
-- [Imprimer plusieurs documents différents en même temps avec BulkPrinter](https://blog.shevarezo.fr/post/2023/09/22/imprimer-plusieurs-documents-differents-en-meme-temps-bulkprinter)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
