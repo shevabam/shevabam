@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Utilisez scrollbar.app pour styliser vos scrollbars en CSS !](https://blog.shevarezo.fr/post/2023/11/15/scrollbar-app-styliser-scrollbars-css)
 - [Une interface Web pour télécharger les chansons Spotify via spotDL](https://blog.shevarezo.fr/post/2023/11/08/interface-web-telecharger-chansons-spotify-spotdl)
 - [Vidange moteur et filtre à huile sur une Suzuki Swift Sport 1.6 136 cv &lpar;SSS2&rpar;](https://blog.shevarezo.fr/post/2023/11/05/tuto-vidange-moteur-filtre-a-huile-suzuki-swift-sport-136-sss2)
 - [Afficher les mises à jour disponibles dans le fichier package.json dans VS Code](https://blog.shevarezo.fr/post/2023/10/31/vs-code-afficher-mises-a-jour-disponibles-package-json)
 - [Savoir si un disque est un disque dur ou un SSD sur Linux](https://blog.shevarezo.fr/post/2023/10/18/savoir-si-disque-est-disque-dur-ou-ssd-linux)
-- [Vérifier une URL en JavaScript avec canParse](https://blog.shevarezo.fr/post/2023/10/13/javascript-verifier-check-url-canparse)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
