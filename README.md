@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ajoutez des favoris dans Visual Studio Code avec l&#39;extension Bookmarks](https://blog.shevarezo.fr/post/2023/12/12/vs-code-extension-bookmarks-ajouter-favoris)
 - [Mettre automatiquement en évidence la ligne active dans Excel](https://blog.shevarezo.fr/post/2023/12/05/excel-mettre-automatiquement-evidence-ligne-active)
 - [Une extension Chrome pour accéder à ses recherches Leboncoin en un clic !](https://blog.shevarezo.fr/post/2023/11/21/extension-chrome-acceder-recherches-leboncoin)
 - [Utilisez scrollbar.app pour styliser vos scrollbars en CSS !](https://blog.shevarezo.fr/post/2023/11/15/scrollbar-app-styliser-scrollbars-css)
 - [Une interface Web pour télécharger les chansons Spotify via spotDL](https://blog.shevarezo.fr/post/2023/11/08/interface-web-telecharger-chansons-spotify-spotdl)
-- [Vidange moteur et filtre à huile sur une Suzuki Swift Sport 1.6 136 cv &lpar;SSS2&rpar;](https://blog.shevarezo.fr/post/2023/11/05/tuto-vidange-moteur-filtre-a-huile-suzuki-swift-sport-136-sss2)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
