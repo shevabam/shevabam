@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comment changer le filtre à air sur une Suzuki Swift Sport 1.6 136 cv &lpar;SSS2&rpar;](https://blog.shevarezo.fr/post/2024/01/06/comment-changer-filtre-air-suzuki-swift-sport-136-sss2)
 - [Les séries TV que j&#39;ai regardées en 2023](https://blog.shevarezo.fr/post/2023/12/27/series-tv-regardees-2023)
 - [Comment générer un faux texte sur Word avec des formules](https://blog.shevarezo.fr/post/2023/12/15/word-comment-generer-faux-texte-formules)
 - [Ajoutez des favoris dans Visual Studio Code avec l&#39;extension Bookmarks](https://blog.shevarezo.fr/post/2023/12/12/vs-code-extension-bookmarks-ajouter-favoris)
 - [Mettre automatiquement en évidence la ligne active dans Excel](https://blog.shevarezo.fr/post/2023/12/05/excel-mettre-automatiquement-evidence-ligne-active)
-- [Une extension Chrome pour accéder à ses recherches Leboncoin en un clic !](https://blog.shevarezo.fr/post/2023/11/21/extension-chrome-acceder-recherches-leboncoin)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
