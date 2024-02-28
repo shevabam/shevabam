@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Testez votre code PHP directement dans votre navigateur avec PHP Arena](https://blog.shevarezo.fr/post/2024/02/28/tester-code-php-dans-navigateur-php-arena)
 - [9 ans et 500 articles sur ce blog !](https://blog.shevarezo.fr/post/2024/02/18/9-ans-500-articles-blog)
 - [Accédez dans Chrome à tous les caractères spéciaux ASCII, Unicode, emojis](https://blog.shevarezo.fr/post/2024/02/08/extension-chrome-caracteres-speciaux-ascii-unicode-emojis)
 - [Une extension Chrome pour télécharger les photos d&#39;une annonce Leboncoin](https://blog.shevarezo.fr/post/2024/01/29/extension-chrome-telecharger-photos-annonce-leboncoin)
 - [La sauvegarde automatique dans VS Code](https://blog.shevarezo.fr/post/2024/01/18/vs-code-sauvegarde-automatique)
-- [Comment extraire les images d’un document Word ?](https://blog.shevarezo.fr/post/2024/01/12/comment-extraire-exporter-images-document-word)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
