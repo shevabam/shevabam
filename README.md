@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comment exporter l&#39;historique de navigation Google Chrome](https://blog.shevarezo.fr/post/2024/03/28/comment-exporter-historique-navigation-google-chrome)
 - [Explorez vos dépendances NPM en profondeur avec npmgraph.js](https://blog.shevarezo.fr/post/2024/03/20/explorez-dependances-npm-npmgraphjs)
 - [Comment retrouver un mot de passe WiFi sur Windows ?](https://blog.shevarezo.fr/post/2024/03/13/comment-retrouver-mot-de-passe-wifi-windows)
 - [Comment trouver la version de Bluetooth sur un PC Windows ?](https://blog.shevarezo.fr/post/2024/03/07/comment-trouver-version-bluetooth-pc-windows)
 - [Testez votre code PHP directement dans votre navigateur avec PHP Arena](https://blog.shevarezo.fr/post/2024/02/28/tester-code-php-dans-navigateur-php-arena)
-- [9 ans et 500 articles sur ce blog !](https://blog.shevarezo.fr/post/2024/02/18/9-ans-500-articles-blog)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
