@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Maitrisez l&#39;utilisation de la commande tar sur Linux avec tarcommands.com](https://blog.shevarezo.fr/post/2024/04/25/commande-tar-linux-tarcommands)
 - [Le mode screencast dans VS Code](https://blog.shevarezo.fr/post/2024/04/18/vs-code-mode-screencast)
 - [Localhost Banner Alert : une extension Chrome pour faciliter la vie des développeurs](https://blog.shevarezo.fr/post/2024/04/11/localhost-banner-alert-extension-chrome-faciliter-vie-developpeurs)
 - [Explorez les musiques de vos jeux vidéo préférés !](https://blog.shevarezo.fr/post/2024/04/03/explorez-musiques-jeux-video)
 - [Comment exporter l&#39;historique de navigation Google Chrome](https://blog.shevarezo.fr/post/2024/03/28/comment-exporter-historique-navigation-google-chrome)
-- [Explorez vos dépendances NPM en profondeur avec npmgraph.js](https://blog.shevarezo.fr/post/2024/03/20/explorez-dependances-npm-npmgraphjs)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
