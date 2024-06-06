@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Créer des labyrinthes personnalisés en ligne avec Maze Generator](https://blog.shevarezo.fr/post/2024/06/06/creer-labyrinthes-personnalises-maze-generator)
 - [Rechercher des gists Github par langage, utilisateur, popularité](https://blog.shevarezo.fr/post/2024/05/30/rechercher-gists-github-langage-utilisateur-popularite)
 - [Explorer les fichiers sur Github directement dans Sublime Text](https://blog.shevarezo.fr/post/2024/05/22/fichiers-github-dans-sublime-text)
 - [Showcode, un outil puissant pour générer des images de votre code source](https://blog.shevarezo.fr/post/2024/05/15/showcode-generer-images-code-source)
 - [Comment changer le filtre habitacle sur une Suzuki Swift Sport 1.6 136 cv &lpar;SSS2&rpar;](https://blog.shevarezo.fr/post/2024/05/03/tuto-comment-changer-filtre-habitacle-suzuki-swift-sport-136-sss2)
-- [Maitrisez l&#39;utilisation de la commande tar sur Linux avec tarcommands.com](https://blog.shevarezo.fr/post/2024/04/25/commande-tar-linux-tarcommands)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
