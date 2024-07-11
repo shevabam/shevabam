@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comment détecter la touche majuscule en Javascript ?](https://blog.shevarezo.fr/post/2024/07/11/javascript-comment-detecter-majuscule)
 - [Wavacity, un éditeur audio en ligne, clone d&#39;Audacity](https://blog.shevarezo.fr/post/2024/07/04/wavacity-editeur-audio-en-ligne-clone-audacity)
 - [Gros changements pour l&#39;extension Get RSS Feed URL qui passe en v3 !](https://blog.shevarezo.fr/post/2024/06/27/extension-get-rss-feed-url-v3)
 - [Analyser le CSS d&#39;un site grâce à Project Wallace CSS Analyzer](https://blog.shevarezo.fr/post/2024/06/14/analyser-css-project-wallace-css-analyzer)
 - [Créer des labyrinthes personnalisés en ligne avec Maze Generator](https://blog.shevarezo.fr/post/2024/06/06/creer-labyrinthes-personnalises-maze-generator)
-- [Rechercher des gists Github par langage, utilisateur, popularité](https://blog.shevarezo.fr/post/2024/05/30/rechercher-gists-github-langage-utilisateur-popularite)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
