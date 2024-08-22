@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Découvrez Platzi Fake Store API, une API de données fictives dédiée produits](https://blog.shevarezo.fr/post/2024/08/22/platzi-fake-store-api-produits)
 - [The History of the Web : un voyage à travers le temps du World Wide Web](https://blog.shevarezo.fr/post/2024/08/08/the-history-of-the-web-voyage-world-wide-web)
 - [Linkclump, une extension Chrome qui vous fait gagner du temps !](https://blog.shevarezo.fr/post/2024/07/26/linkclump-extension-chrome-fait-gagner-du-temps-)
 - [Générer des données factices &lpar;fixtures&rpar; via l&#39;API DummyJSON](https://blog.shevarezo.fr/post/2024/07/17/generer-donnees-factices-fixtures-api-dummyjson)
 - [Comment détecter la touche majuscule en Javascript ?](https://blog.shevarezo.fr/post/2024/07/11/javascript-comment-detecter-majuscule)
-- [Wavacity, un éditeur audio en ligne, clone d&#39;Audacity](https://blog.shevarezo.fr/post/2024/07/04/wavacity-editeur-audio-en-ligne-clone-audacity)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
