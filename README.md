@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rendre le sélecteur d&#39;attribut CSS insensible à la casse](https://blog.shevarezo.fr/post/2024/10/30/css-selecteur-attribut-insensible-casse)
 - [Digger Tools : l&#39;outil indispensable pour analyser un nom de domaine](https://blog.shevarezo.fr/post/2024/10/23/digger-tools-analyser-nom-de-domaine)
 - [Le site ultime pour découvrir les raccourcis clavier des applications et sites web](https://blog.shevarezo.fr/post/2024/09/26/raccourcis-clavier-applications-sites-web)
 - [Avoir le temps d&#39;exécution détaillé d&#39;une requête SQL](https://blog.shevarezo.fr/post/2024/09/12/temps-execution-requete-sql)
 - [Comment exporter et importer une distribution WSL ?](https://blog.shevarezo.fr/post/2024/09/05/comment-exporter-importer-distribution-wsl)
-- [CSS Compatibility : l&#39;extension VS Code incontournable pour les développeurs frontend](https://blog.shevarezo.fr/post/2024/08/29/css-compatibility-extension-vs-code-frontend)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
