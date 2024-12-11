@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Créer des cartes en points avec World in Dots](https://blog.shevarezo.fr/post/2024/12/11/creer-cartes-en-points-world-in-dots)
 - [Automatiser la publication de vos tweets sur Bluesky et Mastodon](https://blog.shevarezo.fr/post/2024/12/04/automatiser-publication-tweets-bluesky-mastodon)
 - [Vous utilisiez TweetDeck ? Voici l&#39;équivalent pour Bluesky !](https://blog.shevarezo.fr/post/2024/11/19/tweetdeck-equivalent-bluesky-deck-blue)
 - [Retrouvez vos followers Twitter/X sur Bluesky en quelques clics !](https://blog.shevarezo.fr/post/2024/11/15/followers-twitter-x-sur-bluesky)
 - [Une scroll map &lpar;minimap&rpar; dans vos conversations ChatGPT](https://blog.shevarezo.fr/post/2024/11/13/scroll-map-minimap-conversations-chatgpt)
-- [Utiliser Spotify dans VS Code, c&#39;est possible avec cette extension !](https://blog.shevarezo.fr/post/2024/11/06/spotify-vs-code)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
