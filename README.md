@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Créez votre propre thème Visual Studio Code avec ce générateur](https://blog.shevarezo.fr/post/2025/01/15/creer-theme-visual-studio-code-vscode-generateur)
 - [Ajouter facilement des animations de chargement en CSS avec Whirl](https://blog.shevarezo.fr/post/2025/01/09/animations-loader-css-whirl)
 - [Les séries TV que j&#39;ai regardées en 2024](https://blog.shevarezo.fr/post/2024/12/31/series-tv-regardees-2024)
 - [Convertir en Markdown des fichiers Word, Excel, PowerPoint, PDF](https://blog.shevarezo.fr/post/2024/12/18/convertir-word-excel-pdf-powerpoint-en-markdown)
 - [Créer des cartes en points avec World in Dots](https://blog.shevarezo.fr/post/2024/12/11/creer-cartes-en-points-world-in-dots)
-- [Automatiser la publication de vos tweets sur Bluesky et Mastodon](https://blog.shevarezo.fr/post/2024/12/04/automatiser-publication-tweets-bluesky-mastodon)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
