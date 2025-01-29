@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Suivre l&#39;évolution des dépôts Github grâce à Star History](https://blog.shevarezo.fr/post/2025/01/29/evolution-depots-github-star-history)
 - [Découvrez le nouveau playground Twig](https://blog.shevarezo.fr/post/2025/01/23/playground-twig)
 - [Make Password Strong Again : &lpar;encore&rpar; un générateur de mots de passe](https://blog.shevarezo.fr/post/2025/01/20/make-password-strong-again-encore-generateur-mots-passe)
 - [Créez votre propre thème Visual Studio Code avec ce générateur](https://blog.shevarezo.fr/post/2025/01/15/creer-theme-visual-studio-code-vscode-generateur)
 - [Ajouter facilement des animations de chargement en CSS avec Whirl](https://blog.shevarezo.fr/post/2025/01/09/animations-loader-css-whirl)
-- [Les séries TV que j&#39;ai regardées en 2024](https://blog.shevarezo.fr/post/2024/12/31/series-tv-regardees-2024)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
