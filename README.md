@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On passe la barre des 10 ans du blog !](https://blog.shevarezo.fr/post/2025/02/18/les-10-ans-du-blog)
 - [npmpackage.info : un outil pratique pour analyser un paquet NPM](https://blog.shevarezo.fr/post/2025/02/14/npm-package-info-analyser-paquet-npm)
 - [Créer des mockups avec Shots.so](https://blog.shevarezo.fr/post/2025/02/12/creer-mockups-shotsso)
 - [CS16.css : la lib CSS qui fait revivre l&#39;interface de Counter Strike 1.6](https://blog.shevarezo.fr/post/2025/02/04/cs16css-lib-css-interface-counter-strike)
 - [Suivre l&#39;évolution des dépôts Github grâce à Star History](https://blog.shevarezo.fr/post/2025/01/29/evolution-depots-github-star-history)
-- [Découvrez le nouveau playground Twig](https://blog.shevarezo.fr/post/2025/01/23/playground-twig)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
