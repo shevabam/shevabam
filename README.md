@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Les logos des marques célèbres revisités façon années 80](https://blog.shevarezo.fr/post/2025/04/03/logos-marques-celebres-facon-annees-80)
 - [Analyser et améliorer un dépôt Github avec GitSift](https://blog.shevarezo.fr/post/2025/03/26/analyser-ameliorer-depot-github-gitsift)
 - [Inkdown, l&#39;extension VS Code parfaite pour écrire du Markdown](https://blog.shevarezo.fr/post/2025/03/19/inkdown-extension-vs-code-ecrire-markdown)
 - [Gérer efficacement vos dépôts avec git sparse-checkout](https://blog.shevarezo.fr/post/2025/03/12/git-sparse-checkout)
 - [Supprimez rapidement vos discussions ChatGPT avec cette extension](https://blog.shevarezo.fr/post/2025/03/05/supprimer-discussions-chatgpt-extension)
-- [JSONBin.io : une alternative légère aux bases de données pour les JSON](https://blog.shevarezo.fr/post/2025/02/26/jsonbinio-alternative-base-de-donnees-json)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
