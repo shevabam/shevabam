@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [upfetch : une alternative améliorée à fetch en JavaScript](https://blog.shevarezo.fr/post/2025/04/23/upfetch-alternative-fetch-javascript)
 - [L&#39;extension Return YouTube Dislike rétablit une fonctionnalité de YouTube](https://blog.shevarezo.fr/post/2025/04/16/extension-return-youtube-dislike-fonctionnalite-youtube)
 - [ImgTools : la boîte à outils pour la manipulation des images](https://blog.shevarezo.fr/post/2025/04/09/imgtools-boite-outils-manipulation-images)
 - [Les logos des marques célèbres revisités façon années 80](https://blog.shevarezo.fr/post/2025/04/03/logos-marques-celebres-facon-annees-80)
 - [Analyser et améliorer un dépôt Github avec GitSift](https://blog.shevarezo.fr/post/2025/03/26/analyser-ameliorer-depot-github-gitsift)
-- [Inkdown, l&#39;extension VS Code parfaite pour écrire du Markdown](https://blog.shevarezo.fr/post/2025/03/19/inkdown-extension-vs-code-ecrire-markdown)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
