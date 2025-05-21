@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quick Access Office Apps : une extension Chrome pour accéder à vos apps Office favorites](https://blog.shevarezo.fr/post/2025/05/21/quick-access-office-apps-extension-chrome-acceder-apps-office-favorites)
 - [Un look rétro 8-bit à vos composants Shadcn avec 8bitcn](https://blog.shevarezo.fr/post/2025/05/14/css-shadcn-8bitcn)
 - [Jouez à des jeux rétro directement dans votre navigateur](https://blog.shevarezo.fr/post/2025/04/30/jouer-jeux-retro-dans-navigateur)
 - [upfetch : une alternative améliorée à fetch en JavaScript](https://blog.shevarezo.fr/post/2025/04/23/upfetch-alternative-fetch-javascript)
 - [L&#39;extension Return YouTube Dislike rétablit une fonctionnalité de YouTube](https://blog.shevarezo.fr/post/2025/04/16/extension-return-youtube-dislike-fonctionnalite-youtube)
-- [ImgTools : la boîte à outils pour la manipulation des images](https://blog.shevarezo.fr/post/2025/04/09/imgtools-boite-outils-manipulation-images)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
