@@ -19,11 +19,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Partagez vos liens en un clic avec l’extension Quick Social Share](https://blog.shevarezo.fr/post/2025/06/26/partager-liens-extension-quick-social-share)
 - [JSON Grid : l&#39;outil parfait pour visualiser et manipuler vos données JSON](https://blog.shevarezo.fr/post/2025/06/18/json-grid-visualiser-manipuler-donnees-json)
 - [Comment partager un mot de passe ou une clé API en toute sécurité ?](https://blog.shevarezo.fr/post/2025/06/11/comment-partager-mot-de-passe-cle-api)
 - [IPQuery : une API pour obtenir des informations sur une adresse IP](https://blog.shevarezo.fr/post/2025/06/04/ipquery-api-obtenir-informations-adresse-ip)
 - [Tester et exécuter du SQL en ligne avec RunSQL](https://blog.shevarezo.fr/post/2025/05/28/tester-executer-sql-en-ligne-runsql)
-- [Quick Access Office Apps : une extension Chrome pour accéder à vos apps Office favorites](https://blog.shevarezo.fr/post/2025/05/21/quick-access-office-apps-extension-chrome-acceder-apps-office-favorites)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
