@@ -20,11 +20,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [La Brocante du Web 2025#29](https://blog.shevarezo.fr/post/2025/07/20/la-brocante-du-web-2025-week-29)
 - [Mettez du CSS dans vos console.log](https://blog.shevarezo.fr/post/2025/07/16/css-dans-console-log)
 - [Comment visualiser la taille de vos fichiers et dossiers dans VS Code](https://blog.shevarezo.fr/post/2025/07/09/vscode-comment-visualiser-taille-fichiers-dossiers)
 - [AnduinOS : la distribution Linux qui ressemble à Windows 11](https://blog.shevarezo.fr/post/2025/07/03/anduinos-distribution-linux-ressemble-windows-11)
 - [Partagez vos liens en un clic avec l’extension Quick Social Share](https://blog.shevarezo.fr/post/2025/06/26/partager-liens-extension-quick-social-share)
-- [JSON Grid : l&#39;outil parfait pour visualiser et manipuler vos données JSON](https://blog.shevarezo.fr/post/2025/06/18/json-grid-visualiser-manipuler-donnees-json)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
