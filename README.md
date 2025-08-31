@@ -20,11 +20,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [La Brocante du Web 2025#34](https://blog.shevarezo.fr/post/2025/08/31/la-brocante-du-web-2025-week-34)
 - [Créer une bannière personnalisée pour son profil Github](https://blog.shevarezo.fr/post/2025/08/27/creer-banniere-personnalisee-profil-github)
 - [La Brocante du Web 2025#32](https://blog.shevarezo.fr/post/2025/08/10/la-brocante-du-web-2025-week-32)
 - [Un énième générateur de placeholder d&#39;images, orienté réseaux sociaux](https://blog.shevarezo.fr/post/2025/08/06/generateur-placeholder-images-reseaux-sociaux)
 - [Exécutez vos scripts NPM directement depuis VS Code avec cette extension](https://blog.shevarezo.fr/post/2025/07/30/executer-scripts-npm-vs-code)
-- [La Brocante du Web 2025#30](https://blog.shevarezo.fr/post/2025/07/27/la-brocante-du-web-2025-week-30)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
