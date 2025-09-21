@@ -20,11 +20,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [La Brocante du Web 2025#38](https://blog.shevarezo.fr/post/2025/09/21/la-brocante-du-web-2025-week-38)
 - [Pretty-bytes : la lib JavaScript qui rend lisibles vos octets](https://blog.shevarezo.fr/post/2025/09/17/pretty-bytes-lib-javascript-rend-lisibles-vos-octets)
 - [AI Chat Blur, une extension pour flouter vos conversations ChatGPT, Claude, Gemini](https://blog.shevarezo.fr/post/2025/09/10/ai-chat-blur-extension-flouter-conversations-chatgpt-claude-gemini)
 - [Découvrez vos commandes Linux les plus utilisées en 1 ligne !](https://blog.shevarezo.fr/post/2025/09/03/commandes-linux-les-plus-utilisees)
 - [La Brocante du Web 2025#34](https://blog.shevarezo.fr/post/2025/08/31/la-brocante-du-web-2025-week-34)
-- [Créer une bannière personnalisée pour son profil Github](https://blog.shevarezo.fr/post/2025/08/27/creer-banniere-personnalisee-profil-github)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
