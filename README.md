@@ -20,11 +20,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Générer rapidement des données de test en CSV, JSON, SQ et XML](https://blog.shevarezo.fr/post/2025/10/08/generer-donnees-test-csv-json-sq-xml)
 - [La Brocante du Web 2025#40](https://blog.shevarezo.fr/post/2025/10/05/la-brocante-du-web-2025-week-40)
 - [Protégez vos variables d’environnement sensibles dans VS Code](https://blog.shevarezo.fr/post/2025/10/02/proteger-variables-environnement-sensibles-vs-code)
 - [btop, l&#39;alternative moderne à htop](https://blog.shevarezo.fr/post/2025/09/25/btop-alternative-htop)
 - [La Brocante du Web 2025#38](https://blog.shevarezo.fr/post/2025/09/21/la-brocante-du-web-2025-week-38)
-- [Pretty-bytes : la lib JavaScript qui rend lisibles vos octets](https://blog.shevarezo.fr/post/2025/09/17/pretty-bytes-lib-javascript-rend-lisibles-vos-octets)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
