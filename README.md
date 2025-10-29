@@ -20,11 +20,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vérifier la fiabilité des paquets npm avant de les installer](https://blog.shevarezo.fr/post/2025/10/29/verifier-fiabilite-paquets-npm-avant-installer)
 - [Marre de Postman ? Découvrez ces alternatives local-first &lpar;sans compte&rpar;](https://blog.shevarezo.fr/post/2025/10/22/alternatives-postman-local-first-sans-compte)
 - [La Brocante du Web 2025#42](https://blog.shevarezo.fr/post/2025/10/19/la-brocante-du-web-2025-week-42)
 - [Hacker News dans son terminal](https://blog.shevarezo.fr/post/2025/10/15/hacker-news-terminal)
 - [Générer rapidement des données de test en CSV, JSON, SQL et XML](https://blog.shevarezo.fr/post/2025/10/08/generer-donnees-test-csv-json-sq-xml)
-- [La Brocante du Web 2025#40](https://blog.shevarezo.fr/post/2025/10/05/la-brocante-du-web-2025-week-40)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
