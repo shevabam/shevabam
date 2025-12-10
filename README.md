@@ -20,11 +20,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quelques astuces pour obtenir de meilleures réponses de ChatGPT](https://blog.shevarezo.fr/post/2025/12/10/astuces-meilleures-reponses-chatgpt)
 - [Tous les fonds d&#39;écran Windows réunis dans un album](https://blog.shevarezo.fr/post/2025/12/03/album-fonds-ecran-windows-wallpapers)
 - [La Brocante du Web 2025#48](https://blog.shevarezo.fr/post/2025/11/30/la-brocante-du-web-2025-week-48)
 - [Un framework CSS rétro façon Game Boy](https://blog.shevarezo.fr/post/2025/11/26/framework-css-retro-game-boy)
 - [Hotlap Daily : un mini jeu de course addictif](https://blog.shevarezo.fr/post/2025/11/19/hotlap-daily-mini-jeu-course-addictif)
-- [La Brocante du Web 2025#46](https://blog.shevarezo.fr/post/2025/11/16/la-brocante-du-web-2025-week-46)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
