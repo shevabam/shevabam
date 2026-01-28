@@ -20,11 +20,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Convertir des tableaux dans 38 formats &lpar;Excel, JSON, SQL, Markdown, ...&rpar;](https://blog.shevarezo.fr/post/2026/01/28/convertir-tableaux-38-formats-excel-json-sql-markdown)
 - [La Brocante du Web 2026 - 12/01 au 25/01](https://blog.shevarezo.fr/post/2026/01/25/la-brocante-du-web-2026-du-12-01-au-25-01)
 - [Testez votre code PHP sur plus de 300 versions simultanément](https://blog.shevarezo.fr/post/2026/01/21/tester-code-php-300-versions-simultanement)
 - [Plus de 100 outils réseau réunis au même endroit](https://blog.shevarezo.fr/post/2026/01/14/plus-de-100-outils-reseau-reunis-au-meme-endroit)
 - [La Brocante du Web 2026 - 05/01 au 11/01](https://blog.shevarezo.fr/post/2026/01/11/la-brocante-du-web-2026-du-05-01-au-11-01)
-- [La Brocante du Web 2025#52](https://blog.shevarezo.fr/post/2025/12/28/la-brocante-du-web-2025-week-52)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
