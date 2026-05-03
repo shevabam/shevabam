@@ -20,11 +20,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [La Brocante du Web 2026 - 20/04 au 3/05](https://blog.shevarezo.fr/post/2026/05/03/la-brocante-du-web-2026-du-20-04-au-3-05)
 - [TheSVG : une collection de 5 600 icônes SVG de marques](https://blog.shevarezo.fr/post/2026/04/29/thesvg-collection-5600-icones-svg-marques-brands)
 - [Junio Hamano : l&#39;homme qui maintient Git depuis 2005](https://blog.shevarezo.fr/post/2026/04/22/junio-hamano-l-homme-qui-maintient-git-depuis-2005)
 - [La Brocante du Web 2026 - 06/04 au 19/04](https://blog.shevarezo.fr/post/2026/04/19/la-brocante-du-web-2026-du-06-04-au-19-04)
 - [Un outil pour extraire les métadonnées d&#39;une vidéo YouTube](https://blog.shevarezo.fr/post/2026/04/15/extraire-metadonnees-video-youtube)
-- [Des montres aux satellites, Doom tourne partout](https://blog.shevarezo.fr/post/2026/04/08/des-montres-aux-satellites-doom-tourne-partout)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
