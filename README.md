@@ -20,11 +20,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jean-Loup Gailly : l&#39;homme derrière gzip et zlib](https://blog.shevarezo.fr/post/2026/06/24/jean-loup-gailly-homme-derriere-gzip-zlib)
 - [Suivre la Coupe du Monde et les championnats de foot dans son terminal](https://blog.shevarezo.fr/post/2026/06/17/suivre-coupe-du-monde-championnats-foot-dans-terminal)
 - [La Brocante du Web 2026 - 01/06 au 14/06](https://blog.shevarezo.fr/post/2026/06/14/la-brocante-du-web-2026-du-01-06-au-14-06)
 - [sed, awk, grep  trio infernal ou trio indispensable ?](https://blog.shevarezo.fr/post/2026/06/10/sed-awk-grep-trio-infernal-ou-trio-indispensable)
 - [Générer des fichiers de test audio, vidéo, image, document avec FileMock](https://blog.shevarezo.fr/post/2026/06/03/filemock-generer-fichiers-test-audio-video-image-document)
-- [La Brocante du Web 2026 - 18/05 au 31/05](https://blog.shevarezo.fr/post/2026/05/31/la-brocante-du-web-2026-du-18-05-au-31-05)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
