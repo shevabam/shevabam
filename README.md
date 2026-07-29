@@ -20,11 +20,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quien, un outil en ligne de commande pour analyser un domaine](https://blog.shevarezo.fr/post/2026/07/29/quien-analyser-un-domaine-ligne-de-commande)
 - [La Brocante du Web 2026 - 13/07 au 26/07](https://blog.shevarezo.fr/post/2026/07/26/la-brocante-du-web-2026-du-13-07-au-26-07)
 - [Eric Allman : le développeur derrière sendmail et syslog](https://blog.shevarezo.fr/post/2026/07/22/eric-allman-le-developpeur-derriere-sendmail-et-syslog)
 - [Surveiller et analyser son trafic réseau depuis le terminal avec Netwatch](https://blog.shevarezo.fr/post/2026/07/16/netwatch-surveiller-analyser-trafic-reseau-terminal)
 - [La Brocante du Web 2026 - 29/06 au 12/07](https://blog.shevarezo.fr/post/2026/07/12/la-brocante-du-web-2026-du-29-06-au-12-07)
-- [Installer et changer de version de Go en une commande](https://blog.shevarezo.fr/post/2026/07/08/installer-changer-version-go-en-une-commande)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
