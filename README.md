@@ -20,11 +20,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Une carte interactive pour visualiser les châteaux du monde entier](https://blog.shevarezo.fr/post/2026/08/12/une-carte-interactive-pour-visualiser-les-chateaux-du-monde-entier)
 - [La Brocante du Web 2026 - 27/07 au 9/08](https://blog.shevarezo.fr/post/2026/08/09/la-brocante-du-web-2026-du-27-07-au-9-08)
 - [Developer Portfolios : une collection de plus de 1800 portfolios de développeurs](https://blog.shevarezo.fr/post/2026/08/05/developer-portfolios-collection-portfolios-de-developpeurs)
 - [Quien, un outil en ligne de commande pour analyser un domaine](https://blog.shevarezo.fr/post/2026/07/29/quien-analyser-un-domaine-ligne-de-commande)
 - [La Brocante du Web 2026 - 13/07 au 26/07](https://blog.shevarezo.fr/post/2026/07/26/la-brocante-du-web-2026-du-13-07-au-26-07)
-- [Eric Allman : le développeur derrière sendmail et syslog](https://blog.shevarezo.fr/post/2026/07/22/eric-allman-le-developpeur-derriere-sendmail-et-syslog)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
