@@ -20,11 +20,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [La Brocante du Web 2026 - 24/08 au 6/09](https://blog.shevarezo.fr/post/2026/09/06/la-brocante-du-web-2026-du-24-08-au-6-09)
 - [Un musée en ligne dédié aux skins Winamp](https://blog.shevarezo.fr/post/2026/09/02/musee-skins-winamp)
 - [PHP 8.6 : la nouvelle classe Duration pour manipuler des durées de temps](https://blog.shevarezo.fr/post/2026/08/26/php-8-6-nouvelle-classe-duration-manipuler-durees-de-temps)
 - [La Brocante du Web 2026 - 10/08 au 23/08](https://blog.shevarezo.fr/post/2026/08/23/la-brocante-du-web-2026-du-10-08-au-23-08)
 - [Recréez l&#39;interface de la Nintendo DS en CSS avec ds.css](https://blog.shevarezo.fr/post/2026/08/19/recreez-interface-nintendo-ds-css-dscss)
-- [Une carte interactive pour visualiser les châteaux du monde entier](https://blog.shevarezo.fr/post/2026/08/12/une-carte-interactive-pour-visualiser-les-chateaux-du-monde-entier)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
