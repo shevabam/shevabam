@@ -20,11 +20,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Créer une affiche personnalisée d&#39;une ville](https://blog.shevarezo.fr/post/2026/09/17/creer-affiche-personnalisee-ville)
 - [Mitchell Hashimoto : le développeur derrière Vagrant, Terraform et HashiCorp](https://blog.shevarezo.fr/post/2026/09/09/mitchell-hashimoto-developpeur-vagrant-terraform-hashicorp)
 - [La Brocante du Web 2026 - 24/08 au 6/09](https://blog.shevarezo.fr/post/2026/09/06/la-brocante-du-web-2026-du-24-08-au-6-09)
 - [Un musée en ligne dédié aux skins Winamp](https://blog.shevarezo.fr/post/2026/09/02/musee-skins-winamp)
 - [PHP 8.6 : la nouvelle classe Duration pour manipuler des durées de temps](https://blog.shevarezo.fr/post/2026/08/26/php-8-6-nouvelle-classe-duration-manipuler-durees-de-temps)
-- [La Brocante du Web 2026 - 10/08 au 23/08](https://blog.shevarezo.fr/post/2026/08/23/la-brocante-du-web-2026-du-10-08-au-23-08)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
