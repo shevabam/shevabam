@@ -20,11 +20,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [La Brocante du Web 2026 - 21/09 au 04/10](https://blog.shevarezo.fr/post/2026/10/04/la-brocante-du-web-2026-du-21-09-au-04-10)
 - [RepoStars, un outil pour visualiser et comparer les stars GitHub](https://blog.shevarezo.fr/post/2026/09/30/repostars-visualiser-comparer-stars-github)
 - [Comment une mise à jour de CCleaner a infecté 2,27 millions d&#39;ordinateurs](https://blog.shevarezo.fr/post/2026/09/23/comment-mise-a-jour-ccleaner-infecte-2-27-millions-ordinateurs)
 - [La Brocante du Web 2026 - 7/09 au 20/09](https://blog.shevarezo.fr/post/2026/09/20/la-brocante-du-web-2026-du-7-09-au-20-09)
 - [Créer une affiche personnalisée d&#39;une ville](https://blog.shevarezo.fr/post/2026/09/17/creer-affiche-personnalisee-ville)
-- [Mitchell Hashimoto : le développeur derrière Vagrant, Terraform et HashiCorp](https://blog.shevarezo.fr/post/2026/09/09/mitchell-hashimoto-developpeur-vagrant-terraform-hashicorp)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
