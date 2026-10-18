@@ -20,11 +20,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [La Brocante du Web 2026 - 5/10 au 18/10](https://blog.shevarezo.fr/post/2026/10/18/la-brocante-du-web-2026-du-5-10-au-18-10)
 - [soundcn, une collection de plus de 700 effets sonores](https://blog.shevarezo.fr/post/2026/10/14/soundcn-collection-plus-de-700-effets-sonores)
 - [Tinta, un éditeur Markdown léger qui s&#39;ouvre instantanément](https://blog.shevarezo.fr/post/2026/10/07/tinta-editeur-markdown-leger)
 - [La Brocante du Web 2026 - 21/09 au 04/10](https://blog.shevarezo.fr/post/2026/10/04/la-brocante-du-web-2026-du-21-09-au-04-10)
 - [RepoStars, un outil pour visualiser et comparer les stars GitHub](https://blog.shevarezo.fr/post/2026/09/30/repostars-visualiser-comparer-stars-github)
-- [Comment une mise à jour de CCleaner a infecté 2,27 millions d&#39;ordinateurs](https://blog.shevarezo.fr/post/2026/09/23/comment-mise-a-jour-ccleaner-infecte-2-27-millions-ordinateurs)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
