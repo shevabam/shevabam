@@ -20,11 +20,11 @@ I'm a french developer who likes to build things and share them with everyone �
 #### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OldVersion, téléchargez les anciennes versions de vos logiciels](https://blog.shevarezo.fr/post/2026/11/04/oldversion-telecharger-anciennes-versions-logiciels)
 - [La Brocante du Web 2026 - 19/10 au 31/10](https://blog.shevarezo.fr/post/2026/11/01/la-brocante-du-web-2026-du-19-10-au-31-10)
 - [doggo, une alternative à dig pour interroger vos DNS](https://blog.shevarezo.fr/post/2026/10/28/doggo-alternative-dig-dns)
 - [Marc Andreessen, co-créateur du premier navigateur web grand public](https://blog.shevarezo.fr/post/2026/10/21/marc-andreessen-co-createur-premier-navigateur-web-grand-public)
 - [La Brocante du Web 2026 - 5/10 au 18/10](https://blog.shevarezo.fr/post/2026/10/18/la-brocante-du-web-2026-du-5-10-au-18-10)
-- [soundcn, une collection de plus de 700 effets sonores](https://blog.shevarezo.fr/post/2026/10/14/soundcn-collection-plus-de-700-effets-sonores)
 <!-- BLOG-POST-LIST:END -->
 ➡ [More blog posts](https://blog.shevarezo.fr)
 
